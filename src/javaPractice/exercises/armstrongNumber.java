@@ -1,6 +1,5 @@
 package javaPractice.exercises;
 
-import java.util.Map;
 import java.util.Scanner;
 
 public class armstrongNumber {

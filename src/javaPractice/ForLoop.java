@@ -1,6 +1,6 @@
 package javaPractice;
 
-public class forLoop {
+public class ForLoop {
     public static void main(String[] args) {
 /*  A for loop in Java is a control flow statement that allows code
     to be executed repeatedly based on a condition. It is typically used
