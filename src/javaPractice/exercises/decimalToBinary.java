@@ -1,6 +1,7 @@
 package javaPractice.exercises;
 
-public class Exercises {
+public class decimalToBinary {
+
     public static void main(String[] args) {
 
 /*  Exercise 4:

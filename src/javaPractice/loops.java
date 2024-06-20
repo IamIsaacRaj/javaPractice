@@ -3,6 +3,7 @@ package javaPractice;
 import java.util.Scanner;
 
 public class loops {
+
     public static void main(String[] args) {
 
 /*  A while loop is a control flow statement in programming that allows
