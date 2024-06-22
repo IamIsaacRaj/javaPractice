@@ -39,15 +39,9 @@ public class CustomerMain {
         System.out.println(customer1.name + "'s Discount Percentage is " + customer1.discountPercentageByAge());
 
         System.out.println(customer2.name + "'s Salary before incrementing = " + customer2.salary);
-        customer2.updateSalary(8);
-        System.out.println(customer2.name + "'s Salary After Incrementing = " + customer2.salary);
-
-
-
-
-
-
-
+        int percentage = 8;
+        double updatedSalary = customer2.updateSalary(percentage);
+        System.out.println(customer2.name + "'s Salary After " + percentage + "% Incrementing = " + updatedSalary);
 
     }
 }
